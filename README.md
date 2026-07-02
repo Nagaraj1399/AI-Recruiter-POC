@@ -1,5 +1,7 @@
 # 🚀 AI Recruiter POC
 
+🌍 **Live Demo:** [https://Nagaraj1399.github.io/AI-Recruiter-POC/](https://Nagaraj1399.github.io/AI-Recruiter-POC/)
+
 A lightning-fast, intelligent candidate ranking dashboard built with React and Vite. This Proof of Concept goes beyond simple keyword filtering to provide deep semantic matching, career pedigree scoring, and behavioral signal integration.
 
 ## ✨ Key Features
